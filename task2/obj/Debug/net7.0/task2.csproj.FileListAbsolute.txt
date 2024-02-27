@@ -1,0 +1,14 @@
+C:\Users\brodk\OneDrive\Рабочий стол\lesson3\task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brodk\OneDrive\Рабочий стол\lesson3\task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
+C:\Users\brodk\OneDrive\Рабочий стол\lesson3\task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
+C:\Users\brodk\OneDrive\Рабочий стол\lesson3\task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\brodk\OneDrive\Рабочий стол\lesson3\task2\bin\Debug\net7.0\task2.exe
+C:\Users\brodk\OneDrive\Рабочий стол\lesson3\task2\bin\Debug\net7.0\task2.deps.json
+C:\Users\brodk\OneDrive\Рабочий стол\lesson3\task2\bin\Debug\net7.0\task2.runtimeconfig.json
+C:\Users\brodk\OneDrive\Рабочий стол\lesson3\task2\bin\Debug\net7.0\task2.dll
+C:\Users\brodk\OneDrive\Рабочий стол\lesson3\task2\bin\Debug\net7.0\task2.pdb
+C:\Users\brodk\OneDrive\Рабочий стол\lesson3\task2\obj\Debug\net7.0\task2.dll
+C:\Users\brodk\OneDrive\Рабочий стол\lesson3\task2\obj\Debug\net7.0\refint\task2.dll
+C:\Users\brodk\OneDrive\Рабочий стол\lesson3\task2\obj\Debug\net7.0\task2.pdb
+C:\Users\brodk\OneDrive\Рабочий стол\lesson3\task2\obj\Debug\net7.0\task2.genruntimeconfig.cache
+C:\Users\brodk\OneDrive\Рабочий стол\lesson3\task2\obj\Debug\net7.0\ref\task2.dll
